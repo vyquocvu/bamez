@@ -4,7 +4,7 @@
 This app is a simple way to use telegram in slack ui.
 Build ontop of the #tdlib and #tauri and #solidjs.
 
-Build a Televu app with the following steps:
+Build a Bramess app with the following steps:
 
 1. Clone the [Televu repository]
 2. Run `npm install` || `yarn install` || `bun install`
