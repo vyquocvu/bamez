@@ -1,8 +1,6 @@
 import type { Component } from 'solid-js';
 import { Routes, Route } from "solid-app-router"
 
-import { useStore } from './store';
-
 import Home from "./pages/Home"
 import Users from "./pages/User"
 
